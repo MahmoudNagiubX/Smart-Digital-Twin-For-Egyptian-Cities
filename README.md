@@ -330,6 +330,7 @@ It also generates:
 
 ---
 
+# 📂 Proposed Project Structure
 ```smart-urban-intelligence/
 │
 ├── backend/
