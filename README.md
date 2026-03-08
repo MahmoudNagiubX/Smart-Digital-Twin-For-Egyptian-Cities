@@ -1,10 +1,12 @@
-# 🏙️ Smart Urban Intelligence Digital Twin – Egypt
+# 🏙️ Smart Digital Twin For Egyptian Cities
 
 ### AI-Powered City Monitoring and Prediction Platform
 
 An advanced **AI-driven urban intelligence system** that creates a **digital twin of a city district**, enabling authorities and researchers to **monitor infrastructure, detect urban problems, and predict risks before they occur**.
 
 The system integrates **Machine Learning, Computer Vision, Natural Language Processing, and Geospatial Analytics** to transform raw city data into **actionable insights for smarter urban management**.
+
+<img src="Images/System Diagram.png" alt="System Architecture Diagram" width="1080">
 
 ---
 
